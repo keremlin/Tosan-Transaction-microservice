@@ -3,8 +3,6 @@ package com.tosan.transaction;
 import static org.junit.jupiter.api.Assertions.*;
 
 import com.tosan.transaction.model.DepositTransaction;
-import com.tosan.transaction.model.TransactionType;
-import com.tosan.transaction.model.TransactionStatus;
 import com.tosan.transaction.services.generateRandom;
 
 import org.junit.jupiter.api.Test;
