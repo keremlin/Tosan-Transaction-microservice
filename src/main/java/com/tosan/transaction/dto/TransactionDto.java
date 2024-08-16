@@ -1,11 +1,10 @@
 package com.tosan.transaction.dto;
 
-import javax.validation.constraints.Max;
-import javax.validation.constraints.Min;
-import javax.validation.constraints.NotNull;
+
 
 import com.tosan.transaction.model.*;
 
+import jakarta.validation.constraints.*;
 import org.springframework.beans.BeanUtils;
 
 import lombok.Data;

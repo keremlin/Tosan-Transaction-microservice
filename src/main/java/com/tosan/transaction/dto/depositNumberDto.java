@@ -1,8 +1,8 @@
 package com.tosan.transaction.dto;
 
-import javax.validation.constraints.Max;
-import javax.validation.constraints.Min;
 
+
+import jakarta.validation.constraints.*;
 import lombok.Data;
 
 @Data
